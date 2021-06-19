@@ -1,0 +1,5 @@
+1. Clone/Download the project (zip) from the public branch : https://github.com/Sriseenu-ns/HighpeakInterview
+2. Import the cloned project to IDE
+3. Create input file called "Testinput.txt" under D drive with expected input lines
+4. Run the project/Highpeak.java file. No output is expected in console. and Testoutput.txt should have been created in D drive
+5. Open the output file in D to view the output lines.
